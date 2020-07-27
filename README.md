@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+# folder-structure
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KIMRANO/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +55,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> 84552fce53aad83befb2ead594912cd50ff888b9
